@@ -1258,6 +1258,8 @@
 - [Dawson](https://dawson.sh) - A Serverless framework for Node.js on AWS.
 - [Kubeless](https://github.com/bitnami/kubeless) - Serverless framework for Kubernetes.
 - [Funktion](https://funktion.fabric8.io/) - Open source event based Lambda programming for Kubernetes.
+- [Fission](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes
+- [Fission Workflows](https://github.com/fission/fission-workflows) -  Fast, reliable and lightweight serverless function composition.
 - [Localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack.
 - [Azure functions pack](https://github.com/christopheranderson/azure-functions-pack) - Easily package your Node.js Functions for Azure Functions.
 - [Azure Functions](https://github.com/Azure/Azure-Functions) - Overview repository about Azure Functions.
